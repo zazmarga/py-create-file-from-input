@@ -2,7 +2,7 @@
 
 - Read [the guideline](https://github.com/mate-academy/py-task-guideline/blob/main/README.md) before start
 
-###Write an app that will create a file with a given name and content.
+### Write an app that will create a file with a given name and content.
 
 - When the app is launched, ask the user to enter the file name.
 - When the name is provided, ask to enter next line of the content
